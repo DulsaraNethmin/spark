@@ -1,0 +1,9 @@
+ProductID,ProductName,Category,Price,Quantity
+1,Coffee Maker,Appliances,79.99,120
+2,Blender,Appliances,39.99,80
+3,Desk Lamp,Furniture,19.99,150
+4,Dining Chair,Furniture,45.99,100
+5,Running Shoes,Clothing,89.99,200
+6,Jacket,Clothing,149.99,90
+7,Laptop Sleeve,Electronics,29.99,50
+8,Wireless Mouse,Electronics,19.99,180

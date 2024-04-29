@@ -1,0 +1,12 @@
+Name,Departments,Salary
+Krish,Krish,Mahesh,Krish
+Mahesh,Sudhanshu,Sudhanshu
+Sudhanshu,Sunny,Sunny
+Data Science
+IOT,Big Data
+Big Data,Data Science
+Data Science,IOT,Big Data,Data Science,Big Data
+salary,5000
+4000,4000,3000
+20000,10000,5000
+10000,2000
